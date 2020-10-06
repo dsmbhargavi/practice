@@ -1,0 +1,33 @@
+body{
+	/*background-color: #272524;*/
+    background-color: #0c1027;
+    margin: 0px 5vw;
+}
+#grid-img img{
+    margin-left: 5px;
+    padding: 0px;
+    height: 50px;
+    width: 50px;
+    vertical-align: center;
+}
+.color{
+    background-color: #13132c;
+}
+#songs-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: auto;
+}
+.song-details{
+    width: 100%;
+    height: auto;
+    margin: 5px 0px;
+}
+
+/*aside section*/
+#recently-played{
+    height: auto;
+    width: 100%;
+}
